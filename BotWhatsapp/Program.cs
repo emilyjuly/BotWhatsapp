@@ -69,7 +69,7 @@ namespace BotWhatsapp
                 sendEl.Click();
 
                 //Esperando mensagem ser enviada antes de fechar
-                Thread.Sleep(1000);
+                Thread.Sleep(3000);
             }
         }
     }
