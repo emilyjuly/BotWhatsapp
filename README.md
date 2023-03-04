@@ -5,7 +5,7 @@ A bot developed with C# and Selenium, this bot sends a specific message to a spe
 
 ## Technologies used
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="30px" height="30px"/> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium" width="30px" height="30px"/></p>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="30px" height="30px"/> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium" width="30px" height="30px"/> <img src="https://cdn-icons-png.flaticon.com/512/220/220218.png" alt="Selenium" width="30px" height="30px"/></p>
 - C# (Language) <br>
 - Selenium (Framework used to interact with web page elements) <br>
 - ChromeDriver (an open source tool for automated testing of webapps across many browsers) <br> <br>
@@ -33,7 +33,7 @@ Um robô desenvolvido com C# e Selenium, esse bot envia uma mensagem específica
 
 ## Tecnologias usadas
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="30px" height="30px"/> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium" width="30px" height="30px"/></p>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="30px" height="30px"/> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium" width="30px" height="30px"/> <img src="https://cdn-icons-png.flaticon.com/512/220/220218.png" alt="Selenium" width="30px" height="30px"/></p>
 - C# (Linguagem) <br>
 - Selenium (Framework usado para interagir com os elementos da página web) <br>
 - ChromeDriver (Uma ferramenta de código aberto para testes automatizados de aplicativos da web em vários navegadores) <br>
