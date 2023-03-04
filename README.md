@@ -4,10 +4,13 @@ A bot developed with C# and Selenium, this bot sends a specific message to a spe
 <img src="https://cdn-icons-png.flaticon.com/512/2080/2080776.png" alt="icone whatsapp" width="80px" height="80px"/>
 
 ## Technologies used
-<img src="https://i.pinimg.com/originals/21/eb/c5/21ebc531e5eb9725a64a52cac62325e2.png" alt="icone whatsapp" width="50px" height="50px"/>
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="30px" height="30px"/> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium" width="30px" height="30px"/></p>
 - C# (Language) <br>
 - Selenium (Framework used to interact with web page elements) <br>
-- ChromeDriver (an open source tool for automated testing of webapps across many browsers) <br>
+- ChromeDriver (an open source tool for automated testing of webapps across many browsers) <br> <br>
+
+
 
 ## Warnings
 <img src="https://cdn-icons-png.flaticon.com/512/5060/5060502.png" alt="icone whatsapp" width="50px" height="50px"/>
@@ -29,7 +32,8 @@ Um robô desenvolvido com C# e Selenium, esse bot envia uma mensagem específica
 <img src="https://cdn-icons-png.flaticon.com/512/2080/2080776.png" alt="icone whatsapp" width="80px" height="80px"/>
 
 ## Tecnologias usadas
-<img src="https://i.pinimg.com/originals/21/eb/c5/21ebc531e5eb9725a64a52cac62325e2.png" alt="icone whatsapp" width="50px" height="50px"/>
+<p>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="30px" height="30px"/> <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" alt="Selenium" width="30px" height="30px"/></p>
 - C# (Linguagem) <br>
 - Selenium (Framework usado para interagir com os elementos da página web) <br>
 - ChromeDriver (Uma ferramenta de código aberto para testes automatizados de aplicativos da web em vários navegadores) <br>
